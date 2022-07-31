@@ -1,2 +1,2 @@
 # paint-nomad
-nomad coder clone cording course (js)
+nomad coder clone coding course
